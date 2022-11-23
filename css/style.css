@@ -15,7 +15,7 @@ ul li:nth-child(even) {
     color: red;
 }
 
-::marker {
+ul ::marker {
     color: red;
     font-family: fantasy;
     font-size: 1.5em;
