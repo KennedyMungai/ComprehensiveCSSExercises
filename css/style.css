@@ -2,6 +2,7 @@ body {
     padding: 15%;
     font-size: 2rem;
     line-height: 2.5rem;
+    color: rgba(0, 0, 0, 0.85);
 }
 
 input, button {
