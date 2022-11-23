@@ -5,6 +5,11 @@ body {
     color: rgba(0, 0, 0, 0.85);
 }
 
+a {
+    text-decoration: none;
+    color: steelblue;
+}
+
 a:visited {
     color: purple;
 }
