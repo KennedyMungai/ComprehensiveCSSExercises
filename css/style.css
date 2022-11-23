@@ -4,13 +4,3 @@ body {
     line-height: 2.5rem;
     color: rgba(0, 0, 0, 0.85);
 }
-
-/* input, button {
-    font: inherit;
-} */
-
-p {
-    text-indent: 4rem;
-    text-align: justify;
-    line-height: 2.5rem;
-}
