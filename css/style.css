@@ -26,3 +26,11 @@ h2 {
     background-color: orange;
     border-radius: 0.7rem 0.7rem 0rem 0rem;
 }
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    border-top: 1px solid #333;
+}
