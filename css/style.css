@@ -3,6 +3,10 @@ body {
     font-size: 2rem;
 }
 
+ul {
+    list-style-position: inside;
+}
+
 ol {
     padding: 0;
 }
