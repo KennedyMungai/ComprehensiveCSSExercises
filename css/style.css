@@ -5,7 +5,7 @@
 }
 
 .container {
-    border: 2px outset red;
+    border: 2px double red;
     padding: 1.5rem;
     margin: 1.5rem;
     font-size: 1.5rem;
