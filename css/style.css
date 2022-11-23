@@ -4,3 +4,15 @@ body {
     line-height: 2.5rem;
     color: rgba(0, 0, 0, 0.85);
 }
+
+a:visited {
+    color: purple;
+}
+
+a:hover, a:focus {
+    color: dodgerblue;
+}
+
+a:active {
+    color: red;
+}
