@@ -2,3 +2,7 @@ body {
     padding: 5% 10%;
     font-size: 2rem;
 }
+
+ol {
+    padding: 0;
+}
