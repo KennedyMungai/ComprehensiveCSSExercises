@@ -6,3 +6,7 @@ body {
 ol {
     padding: 0;
 }
+
+ul li:nth-child(even) {
+    color: red;
+}
