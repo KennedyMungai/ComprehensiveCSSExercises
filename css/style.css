@@ -24,4 +24,5 @@ nav {
 h2 {
     padding: 1rem;
     background-color: orange;
+    border-radius: 0.7rem 0.7rem 0rem 0rem;
 }
