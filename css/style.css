@@ -16,5 +16,6 @@ ul li:nth-child(even) {
 }
 
 ::marker {
-    color: #000;
+    color: red;
+
 }
