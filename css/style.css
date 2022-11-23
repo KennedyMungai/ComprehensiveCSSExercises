@@ -19,4 +19,5 @@ ul li:nth-child(even) {
     color: red;
     font-family: fantasy;
     font-size: 1.5em;
+    content: "Only $5 >>>";
 }
